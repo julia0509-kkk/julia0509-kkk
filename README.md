@@ -2,6 +2,8 @@
 
 ![Juliia GitHub stats](https://github-readme-stats.vercel.app/api?username=julia0509-kkk&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia0509-kkk)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"><br/>
